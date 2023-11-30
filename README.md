@@ -22,5 +22,5 @@ Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
      ```bash
      ./TechNat.exe
      ```
-     
-Enjoy playing TechNat Adventure!
+
+4. **Enjoy playing TechNat Adventure!**
