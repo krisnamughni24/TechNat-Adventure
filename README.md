@@ -1,6 +1,6 @@
 # TechNat Adventure
 
-Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
+Welcome to TechNat Adventure!
 
 ## How to Play
 
