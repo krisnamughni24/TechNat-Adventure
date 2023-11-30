@@ -12,13 +12,13 @@ Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
      ```
 
 2. **Navigate to Game Folder:**
-   - Change into the cloned directory:
+   Change into the cloned directory:
      ```bash
      cd TechNat-Adventure
      ```
 
 3. **Run the Game:**
-   - Find and double-click on `TechNat.exe` to launch the game, or using terminal:
+   Find and double-click on `TechNat.exe` to launch the game, or using terminal:
      ```bash
      ./TechNat.exe
      ```
