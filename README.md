@@ -8,7 +8,7 @@ Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
    - Open your terminal.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/krisnamughni24/TechNat-Adventure.git
+     git clone -b exe https://github.com/krisnamughni24/TechNat-Adventure.git
      ```
 
 2. **Navigate to Game Folder:**
