@@ -22,7 +22,10 @@ Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
      ```
 
 3. **Run the Game:**
-   - Find and double-click on `TechNat.exe` to launch the game.
+   - Find and double-click on `TechNat.exe` to launch the game, or using terminal:
+     ```bash
+     ./TechNat.exe
+     ```
 
 ## Credits
 
