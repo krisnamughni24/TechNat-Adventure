@@ -22,9 +22,5 @@ Welcome to TechNat Adventure! This is a game developed with Unreal Engine.
      ```bash
      ./TechNat.exe
      ```
-
-## Credits
-
-- Developed by Krisna Mughni
-
+     
 Enjoy playing TechNat Adventure!
