@@ -1,2 +1,1 @@
-TechNat[[:space:]]Exe.zip filter=lfs diff=lfs merge=lfs -text
 TechNat[[:space:]]Exe.rar filter=lfs diff=lfs merge=lfs -text
