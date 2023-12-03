@@ -13,6 +13,7 @@ Follow these steps to open the executable file:
 
 ### Prerequisites
 - **Windows OS:** The executable file is designed to run on Windows. It may not be compatible with other operating systems.
+- Recommended: NVIDIA GeForce GTX 1060 or AMD Radeon RX 570, 16 GB RAM, At least 50 GB of free storage space
 
 ### Installation (Option 1)
 
