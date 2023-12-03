@@ -1,2 +1,1 @@
-# TechNat-Adventure
-Game TechNat Adventure
+# TechNat-Adventure Project
