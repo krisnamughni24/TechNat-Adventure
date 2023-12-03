@@ -4,8 +4,8 @@
   <img src="https://github.com/krisnamughni24/TechNat-Adventure/blob/main/cover.png" alt="Thumbnail" />
 </p>
 
-https://drive.google.com/file/d/1WOCqCYi4jMQlpEIZIMFB2j3F2ItUiGN4/view?usp=sharing
-https://drive.google.com/file/d/1WOCqCYi4jMQlpEIZIMFB2j3F2ItUiGN4/view?usp=sharing
+- [RAR EXE FILE](https://drive.google.com/file/d/1w2BDKL8pMSLQPWVSctBqqlP6nM7311xN/view?usp=sharing)
+- [RAR PROJECT FILE](https://drive.google.com/file/d/1WOCqCYi4jMQlpEIZIMFB2j3F2ItUiGN4/view?usp=sharing)
 
 
 ## Instructions
