@@ -9,7 +9,6 @@
 
 
 ## Instructions
-Follow these steps to open the executable file:
 
 ### Prerequisites
 - **Windows OS:** The executable file is designed to run on Windows. It may not be compatible with other operating systems.
