@@ -36,3 +36,6 @@ cd TechNat Game Exe
 - After downloading the ZIP file, extract its contents using a file extraction application
 - Once you have successfully extracted the RAR file, locate and run the exe file
 - Enjoy the Adventure
+
+### Installation (Option 3)
+- Download the RAR file directly through the following GDrive link:: [TechNat Exe.rar](https://drive.google.com/file/d/1w2BDKL8pMSLQPWVSctBqqlP6nM7311xN/view?usp=sharing)
