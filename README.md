@@ -6,7 +6,7 @@
 
 - [RAR EXE FILE](https://drive.google.com/file/d/1w2BDKL8pMSLQPWVSctBqqlP6nM7311xN/view?usp=sharing)
 - [RAR PROJECT FILE](https://drive.google.com/file/d/1WOCqCYi4jMQlpEIZIMFB2j3F2ItUiGN4/view?usp=sharing)
-
+- [Demo Game](https://drive.google.com/file/d/1WOCqCYi4jMQlpEIZIMFB2j3F2ItUiGN4/view?usp=sharing)
 
 ## Instructions
 
