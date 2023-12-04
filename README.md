@@ -31,7 +31,7 @@ cd TechNat Game Exe
 
 ### Installation (Option 2)
 - Open the GitHub repository page using the following link: [TechNat Adventure](https://github.com/krisnamughni24/TechNat-Adventure)
-- Locate the RAR file, which is "TechNat Exe.rar" in the main repository directory
+- Locate the RAR file, which is ["TechNat Exe.rar"](https://github.com/krisnamughni24/TechNat-Adventure/blob/main/TechNat%20Exe.rar) in the main repository directory
 - Locate and click the "Download" button on the repository page.
 - After downloading the ZIP file, extract its contents using a file extraction application
 - Once you have successfully extracted the RAR file, locate and run the exe file
